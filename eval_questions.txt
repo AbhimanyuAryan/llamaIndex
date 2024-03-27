@@ -1,0 +1,8 @@
+How does offline indexing work in ColBert?
+What is late interaction?
+Explain Query encoder?
+Explain Document encoder?
+Explain storing document embeddings process?
+What is Tok-k re-ranking with colbert?
+How does re-ranking works in colbert?
+Explain end-to-end retrival with colbert?
